@@ -14,8 +14,6 @@ Esta función Lambda-Python utiliza el módulo de Twilio para enviar un mensaje 
 ```
 <hr>
 
-# Lambda Function from Ctrl+Dev - Phone Verify
-
 ## `lambda_phoneVerify.js`
 Esta función Lambda-Python utiliza el módulo de Twilio para enviar el código de verificación y el nombre hacia el nuevo usuario de Ctrl+Dev, siendo utilizado como método de verificación de número de celular.
 
